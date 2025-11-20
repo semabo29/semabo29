@@ -5,7 +5,7 @@
 
   <br>
 
-  <h2>About Me <img src="https://skillicons.dev/icons?i=github" height="25" alt="github" /></h2>
+  <h2>About Me 👨‍💻</h2>
   <p>
     I'm currently studying Computer Engineering at UPC.<br>
     I enjoy working with any programming language, problem solving, Software design and development, UI and interfaces desgin and Linux ecosystems.<br>
@@ -51,9 +51,11 @@
 
   <h2>Contact</h2>
   <p>
-    <a href="https://www.linkedin.com/in/sergi-malaguilla" target="_blank">LinkedIn</a>  
-    ·  
+    <a href="https://www.linkedin.com/in/sergi-malaguilla" target="_blank">LinkedIn</a>   
+    <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="linkedin" />   
+    —
     <a href="https://github.com/semabo29" target="_blank">GitHub</a>
+    <img src="https://skillicons.dev/icons?i=github" height="25" alt="github" />   
   </p>
 
 </div>
