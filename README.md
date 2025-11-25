@@ -43,7 +43,7 @@
 
   <h2>Projects</h2>
   <p>
-    Check out my repositories to see what I'm working on.  
+    At this moment my repositories are private, to see more contact with me.  
     I’m always improving and building new things.
   </p>
 
