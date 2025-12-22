@@ -7,7 +7,7 @@
 
   <h2>About Me 👨‍💻</h2>
   <p>
-    I'm currently studying Computer Engineering at UPC.<br>
+    I'm currently studying Computer Engineering<br>
     I enjoy working with any programming language, problem solving, Software design and development, UI and interfaces desgin and Linux ecosystems.<br>
     Always learning, always building. 🚀
   </p>
