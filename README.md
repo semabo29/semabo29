@@ -19,12 +19,9 @@
     <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
     <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode" />
     <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" />
-    <img src="https://skillicons.dev/icons?i=idea" height="50" alt="idea" />
     <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
     <img src="https://skillicons.dev/icons?i=gradle" height="50" alt="gradle" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQL" />
     <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres" />
     <img src="https://skillicons.dev/icons?i=r" height="50" alt="r" />
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
@@ -33,8 +30,6 @@
     <img src="https://skillicons.dev/icons?i=qt" height="50" alt="Qt" />
     <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash" />
-    <img src="https://skillicons.dev/icons?i=cmake" height="50" alt="cmake" />
-    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" />   
     
     
   </p>
