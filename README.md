@@ -1,13 +1,13 @@
 <div align="center">
 
   <h1>Hi there 👋, I'm Sergi Malaguilla</h1>
-  <p>Software Engineering student • Interested in software development, problem-solving and AI workflows</p>
+  <p>Software Engineering student • Interested in software development, AI, and problem solving</p>
 
   <br>
 
   <h2>About Me 👨‍💻</h2>
   <p>
-    I'm currently studying Computer Engineering<br>
+    I'm currently studying Software Engineering<br>
     I enjoy working with any programming language, problem solving, Software design and development, UI and interfaces desgin and Linux ecosystems.<br>
     Always learning, always building. 🚀
   </p>
@@ -38,7 +38,7 @@
 
   <h2>Projects</h2>
   <p>
-    At this moment my repositories are private, to see more contact with me.  
+    You can find some of my projects in my public repositories.<br>
     I’m always improving and building new things.
   </p>
 
