@@ -14,7 +14,6 @@
 
   <br>
 
-  <h2>Skills & Technologies</h2>
   <p>
     <h2>Skills & Technologies</h2>
       <p align="center">
