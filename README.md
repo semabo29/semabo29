@@ -37,7 +37,7 @@
 
   <h2>Contact</h2>
   <p>
-    <a href="https://www.linkedin.com/in/sergi-malaguilla" target="_blank">LinkedIn</a>   
+    <a href="https://www.linkedin.com/in/sergi-mb" target="_blank">LinkedIn</a>   
     <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="linkedin" />   
     —
     <a href="https://github.com/semabo29" target="_blank">GitHub</a>
