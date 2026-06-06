@@ -24,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=js" height="50" alt="JS" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="NodeJS" />
     <img src="https://skillicons.dev/icons?i=react" height="50" alt="ReactJS" />
+    <img src="https://skillicons.dev/icons?i=ruby" height="50" alt="ReactJS" />
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" />
