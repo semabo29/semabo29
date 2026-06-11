@@ -17,7 +17,7 @@
   <h2>Skills & Technologies 🛠️</h2>
   <p align="center">
     <a href="https://go-skill-icons.vercel.app/">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,js,nodejs,react,ruby,html,css,tailwind,git,postgres,bash,azure,aws&theme=dark" alt="My Skills" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,js,nodejs,react,ruby,html,css,git,swagger,postgres,bash,azure,aws&theme=dark" alt="My Skills" />
     </a>
   </p>
     
