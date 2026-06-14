@@ -23,7 +23,7 @@
     
   <br>
 
-  <h2>GitHub Stats 📊</h2>
+  <h2>GitHub Stats 📊 </h2>
   <p align="center">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=semabo29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sergi's Top Languages" />
   </p>
